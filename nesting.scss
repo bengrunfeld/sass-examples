@@ -1,0 +1,13 @@
+div {
+  width: 200px;
+  height: 100px;
+
+  a {
+    text-decoration: none;
+    color: red;
+    
+    &:hover {
+      color: green;
+    }
+  }
+}
